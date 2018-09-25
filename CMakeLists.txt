@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(Introducing_A_I__into_Skynet_HK_Aerial__Wargames)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Introducing_A_I__into_Skynet_HK_Aerial__Wargames main.cpp)
