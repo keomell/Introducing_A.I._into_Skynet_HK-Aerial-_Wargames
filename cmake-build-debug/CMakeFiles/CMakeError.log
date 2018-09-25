@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_619ee/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_619ee.dir/build.make CMakeFiles/cmTC_619ee.dir/build
+CMakeFiles/cmTC_619ee.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_619ee/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_47acc/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_47acc.dir/build.make CMakeFiles/cmTC_47acc.dir/build
+CMakeFiles/cmTC_47acc.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_47acc/fast] Error 2
+
+
+
