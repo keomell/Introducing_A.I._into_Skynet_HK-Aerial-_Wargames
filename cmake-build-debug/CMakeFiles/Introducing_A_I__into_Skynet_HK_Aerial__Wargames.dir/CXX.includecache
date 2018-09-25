@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/main.cpp
+iostream
+-
+
