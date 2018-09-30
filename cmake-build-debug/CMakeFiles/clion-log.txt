@@ -1,6 +1,6 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames
--- The C compiler identification is AppleClang 9.0.0.9000039
--- The CXX compiler identification is AppleClang 9.0.0.9000039
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames
+-- The C compiler identification is AppleClang 10.0.0.10001044
+-- The CXX compiler identification is AppleClang 10.0.0.10001044
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
 -- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc -- works
 -- Detecting C compiler ABI info
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - failed
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug
+-- Build files have been written to: /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug

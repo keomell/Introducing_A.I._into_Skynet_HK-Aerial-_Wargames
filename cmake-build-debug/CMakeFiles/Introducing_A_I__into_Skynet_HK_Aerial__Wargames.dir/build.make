@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames"
+CMAKE_SOURCE_DIR = "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/flags.ma
 
 CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o: CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/flags.make
 CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o -c "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o -c "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/main.cpp"
 
 CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/main.cpp" > CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/main.cpp" > CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.i
 
 CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/main.cpp" -o CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/main.cpp" -o CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.s
 
 # Object files for target Introducing_A_I__into_Skynet_HK_Aerial__Wargames
 Introducing_A_I__into_Skynet_HK_Aerial__Wargames_OBJECTS = \
@@ -80,7 +80,7 @@ Introducing_A_I__into_Skynet_HK_Aerial__Wargames_EXTERNAL_OBJECTS =
 Introducing_A_I__into_Skynet_HK_Aerial__Wargames: CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o
 Introducing_A_I__into_Skynet_HK_Aerial__Wargames: CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/build.make
 Introducing_A_I__into_Skynet_HK_Aerial__Wargames: CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Introducing_A_I__into_Skynet_HK_Aerial__Wargames"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Introducing_A_I__into_Skynet_HK_Aerial__Wargames"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -93,6 +93,6 @@ CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/clean:
 .PHONY : CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/clean
 
 CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/depend:
-	cd "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug/CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug" "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug/CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/depend
 

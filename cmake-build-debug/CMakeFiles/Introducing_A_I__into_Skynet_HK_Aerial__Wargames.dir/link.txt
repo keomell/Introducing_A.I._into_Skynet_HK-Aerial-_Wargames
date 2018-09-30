@@ -1,1 +1,1 @@
-/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o  -o Introducing_A_I__into_Skynet_HK_Aerial__Wargames 
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Introducing_A_I__into_Skynet_HK_Aerial__Wargames.dir/main.cpp.o  -o Introducing_A_I__into_Skynet_HK_Aerial__Wargames 

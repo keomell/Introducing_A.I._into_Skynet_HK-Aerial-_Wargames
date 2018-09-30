@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames
+# Install script for directory: /Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial:_Wargames/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Ke'Ondrae/OneDrive/UAT/C:C++/AssignmentFour/Introducing_A.I._into_Skynet_HK-Aerial-_Wargames/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
